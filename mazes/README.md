@@ -1,0 +1,1 @@
+There will be mazes in this folder when you start generating things.
