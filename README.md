@@ -2,6 +2,8 @@
 
 A collection of Python scripts to visualize the generation and solving of mazes using **Pygame**. This is the code for this [youtube video](https://www.youtube.com/watch?v=4L7BDRmH4cM).
 
+![Maze](./images/originalVideoFootage/smallRACE_MazeDijkstra2023-12-22_13-04-44.png)
+
 ## requirements
 
 You will need Python 3 installed along with the following libraries:
