@@ -1,0 +1,2 @@
+# MazeFun
+Mazes are fun
